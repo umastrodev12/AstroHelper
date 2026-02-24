@@ -1,0 +1,4 @@
+{
+  "configFile": "./src/config/AstroConfig.ts",
+  "cfg": ".astrocfg"
+}

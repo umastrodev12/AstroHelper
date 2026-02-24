@@ -1,0 +1,9 @@
+{
+  "language": "pt",
+  "git": {
+    "autoAdd": false,
+    "confirmBeforeCommit": false,
+    "includeStats": true,
+    "autoCommit": false
+  }
+}
